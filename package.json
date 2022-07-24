@@ -1,8 +1,6 @@
 {
-  "name": "vitue-minimal",
-  "private": true,
+  "name": "project-name",
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
